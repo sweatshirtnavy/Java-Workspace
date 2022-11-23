@@ -68,7 +68,7 @@ public class ArrayForeach {
 		  }		
 	  }
 		if(count == 0) {
-			System.out.println("해당핸드폰이 없습니다.");
+			System.out.println("해당핸드폰이 없습니다.hhh");
 		}
   }
 }
