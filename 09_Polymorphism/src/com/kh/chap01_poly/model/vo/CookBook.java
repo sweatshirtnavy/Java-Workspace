@@ -9,12 +9,7 @@ public class CookBook extends Book {
 	}
 
 	public CookBook(String title, String author, String publisher) {
-		
-	}
-	public CookBook(boolean coupon) {
-		super();
-		this.coupon = coupon;
-			
+	
 	}
 
 	public boolean isCoupon() {
@@ -29,5 +24,6 @@ public class CookBook extends Book {
 	public String toString() {
 		return "CookBook [coupon=" + coupon + "]";
 	}
-	
+
+
 }
