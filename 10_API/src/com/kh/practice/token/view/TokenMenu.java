@@ -5,19 +5,25 @@ import java.util.Scanner;
 import com.kh.practice.token.controller.TokenController;
 
 public class TokenMenu {
-	
+
 	Scanner sc = new Scanner(System.in);
-	
+
 	TokenController tc = new TokenController();
 	
-		public void mainMenu() {
-	}
+	String str = "j a v a P r o g r a m";
+
+	public void mainMenu() {
+		System.out.println();
 		
-		public void tokenMenu() {
 	}
-		
-		public void inputMenu() {
-			
-		}
+
+	public void tokenMenu() {
+		System.out.println();
+	}
+
+	public void inputMenu() {
+		System.out.println();
+
+	}
 
 }
