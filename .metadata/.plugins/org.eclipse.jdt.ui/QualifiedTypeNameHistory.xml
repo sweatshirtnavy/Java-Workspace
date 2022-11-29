@@ -19,4 +19,6 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.model.vo.Member"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.model.vo.Book"/>
+    <fullyQualifiedTypeName name="com.kh.chap02_abstractAndInterface.part01_basic.model.vo.Sports"/>
+    <fullyQualifiedTypeName name="com.kh.chap02_abstractAndInterface.part02_family.model.vo.Person"/>
 </qualifiedTypeNameHistroy>

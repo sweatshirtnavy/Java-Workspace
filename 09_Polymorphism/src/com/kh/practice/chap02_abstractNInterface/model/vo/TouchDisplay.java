@@ -1,5 +1,7 @@
 package com.kh.practice.chap02_abstractNInterface.model.vo;
 
-public class TouchDisplay {
+public interface TouchDisplay {
+	
+	String touch();
 
 }
