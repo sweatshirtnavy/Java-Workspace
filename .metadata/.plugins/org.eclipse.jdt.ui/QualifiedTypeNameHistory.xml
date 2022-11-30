@@ -16,9 +16,14 @@
     <fullyQualifiedTypeName name="com.kh.chap01_Poly.part02_electronic.model.vo.Electronic"/>
     <fullyQualifiedTypeName name="com.kh.chap01_Poly.part02_electronic.controller.ElectronicController2"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.controller.LibraryController"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.model.vo.Member"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.model.vo.Book"/>
     <fullyQualifiedTypeName name="com.kh.chap02_abstractAndInterface.part01_basic.model.vo.Sports"/>
     <fullyQualifiedTypeName name="com.kh.chap02_abstractAndInterface.part02_family.model.vo.Person"/>
+    <fullyQualifiedTypeName name="com.kh.practice.chap02_abstractNInterface.model.vo.Phone"/>
+    <fullyQualifiedTypeName name="com.kh.practice.chap02_abstractNInterface.controller.PhoneController"/>
+    <fullyQualifiedTypeName name="com.kh.chap02_string.controller.A_StringPoolTest"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kh.practice.token.controller.TokenController"/>
 </qualifiedTypeNameHistroy>

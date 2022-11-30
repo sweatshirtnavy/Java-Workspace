@@ -37,10 +37,10 @@ public class MathRun {
 		System.out.println("최대값 : "+Math.max(5, 10));
 		
 		//제곱근(루트) => Math.squrt(double) : 반환값 double
-		System.out.println("9의 제곱근 : "+Math.sqrt(9));
+		System.out.println("9의 제곱근 : "+Math.sqrt(8));
 
 		//제곱 => Math.pow(double, double) : 반환값 double
-		System.out.println("2의 10제곱 : "+);
+		System.out.println("2의 10제곱 : "+Math.pow(2, 10));
 	}
 	
 	/*
