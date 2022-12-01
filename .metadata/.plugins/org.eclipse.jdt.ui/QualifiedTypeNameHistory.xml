@@ -23,7 +23,17 @@
     <fullyQualifiedTypeName name="com.kh.practice.chap02_abstractNInterface.model.vo.Phone"/>
     <fullyQualifiedTypeName name="com.kh.practice.chap02_abstractNInterface.controller.PhoneController"/>
     <fullyQualifiedTypeName name="com.kh.chap02_string.controller.A_StringPoolTest"/>
-    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.kh.practice.token.controller.TokenController"/>
+    <fullyQualifiedTypeName name="com.kh.practice.token.view.TokenMenu"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kh.exception.controller.A_UncheckedException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="com.kh.exception.controller.B_CheckedException"/>
+    <fullyQualifiedTypeName name="com.kh.exception.controller.C_CustomException"/>
 </qualifiedTypeNameHistroy>

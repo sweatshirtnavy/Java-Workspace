@@ -8,6 +8,7 @@ public class A_UncheckedException {
 	/*
 	 * RuntimeException
 	 * - 프로그램 실행시 발생되는 예외들
+	 * 
 	 *  RuntimeException의 자식클래스들
 	 *  -ArrayIndexOutOfExCeption:배열의 부적절한 인덱스로 접근할때 발생 
 	 *  -NegativeArraySizeException:배열의크기를 음수로 지정할 경우
