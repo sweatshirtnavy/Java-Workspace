@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.kh.practice.student.view.StudentMenu"/>
-    <fullyQualifiedTypeName name="com.kh.practice.student.model.vo.Student"/>
-    <fullyQualifiedTypeName name="com.kh.chap01_beforeVsafter.before.model.vo.Desktop"/>
-    <fullyQualifiedTypeName name="com.kh.chap01_beforeVsafter.after.model.vo.Desktop"/>
-    <fullyQualifiedTypeName name="com.kh.chap02_inherit.model.vo.Airplane"/>
-    <fullyQualifiedTypeName name="com.kh.chap04_override.model.vo.Book"/>
-    <fullyQualifiedTypeName name="com.kh.practice.model.vo.Rectangle"/>
-    <fullyQualifiedTypeName name="com.kh.practice.point.controller.CircleController"/>
-    <fullyQualifiedTypeName name="com.kh.practice.model.vo.Circle"/>
-    <fullyQualifiedTypeName name="com.kh.chap01_Poly.part01_basic.model.vo.Parent"/>
-    <fullyQualifiedTypeName name="com.kh.chap01_Poly.part02_electronic.controller.ElectronicController1"/>
-    <fullyQualifiedTypeName name="com.kh.chap01_Poly.part02_electronic.model.vo.Desktop"/>
-    <fullyQualifiedTypeName name="com.kh.chap01_Poly.part02_electronic.model.vo.Electronic"/>
-    <fullyQualifiedTypeName name="com.kh.chap01_Poly.part02_electronic.controller.ElectronicController2"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.controller.LibraryController"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.model.vo.Member"/>
     <fullyQualifiedTypeName name="com.kh.chap01_poly.model.vo.Book"/>
@@ -47,17 +33,31 @@
     <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="com.kh.chap05_assist2.model.vo.Phone"/>
-    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
     <fullyQualifiedTypeName name="com.kh.chap05_assist2.model.dao.ObjectsDao"/>
     <fullyQualifiedTypeName name="java.io.EOFException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.kh.practice.file.controller.FileController"/>
     <fullyQualifiedTypeName name="com.kh.practice.file.view.FileMenu"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
     <fullyQualifiedTypeName name="com.kh.chap01_list.part01_arrayList.model.vo.Music"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.kh.chap02_set.part01_hashSet.model.vo.Student"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="com.kh.chap03_Map.part01_hashMap.model.vo.Snack"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="com.sun.java.swing.plaf.windows.TMSchema.Prop"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kh.practice.list.music.model.vo.Music"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.kh.practice.list.music.view.MusicView"/>
+    <fullyQualifiedTypeName name="com.kh.practice.list.music.controller.MusicController"/>
 </qualifiedTypeNameHistroy>
