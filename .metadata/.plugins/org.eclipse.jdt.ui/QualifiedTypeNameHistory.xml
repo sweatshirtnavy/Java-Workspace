@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.kh.practice.numRange.exception.NumRangeException"/>
-    <fullyQualifiedTypeName name="com.kh.chap02_byte.model.dao.FileByteDao"/>
-    <fullyQualifiedTypeName name="com.kh.chap03_char.model.vo.FileCharDao"/>
-    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
-    <fullyQualifiedTypeName name="com.kh.chap04_assist.model.dao.BufferedDao"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.Serializable"/>
-    <fullyQualifiedTypeName name="com.kh.chap05_assist2.model.dao.ObjectDao"/>
-    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
-    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
-    <fullyQualifiedTypeName name="com.kh.chap05_assist2.model.vo.Phone"/>
-    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
     <fullyQualifiedTypeName name="com.kh.chap05_assist2.model.dao.ObjectsDao"/>
     <fullyQualifiedTypeName name="java.io.EOFException"/>
     <fullyQualifiedTypeName name="com.kh.practice.file.controller.FileController"/>
@@ -25,7 +12,6 @@
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="com.kh.chap02_set.part01_hashSet.model.vo.Student"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
@@ -34,7 +20,6 @@
     <fullyQualifiedTypeName name="com.sun.java.swing.plaf.windows.TMSchema.Prop"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.kh.practice.list.music.model.vo.Music"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.kh.practice.list.music.view.MusicView"/>
@@ -60,4 +45,19 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="com.kh.chap03_sync.sync.Account"/>
     <fullyQualifiedTypeName name="com.kh.chap03_sync.sync.Atm1"/>
+    <fullyQualifiedTypeName name="com.kh.practice.map.model.vo.Member"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="com.kh.practice.map.controller.MemberController"/>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+    <fullyQualifiedTypeName name="com.kh.chap01_network.server.tcp.Server"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="java.net.InetAddress"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kh.chap01_network.client.tcp.Client"/>
 </qualifiedTypeNameHistroy>
