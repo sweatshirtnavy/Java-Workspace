@@ -74,11 +74,22 @@ public class StreamMethod {
 		   .distinct()
 		   .filter(food -> food.length() == 3)
 		   .peek(food -> System.out.println("남아있는 음식은 ??"+food))
-		   .forEach(System.out :: println);
+		   .count();
 		
-		
-		
-
+		/*
+		 * 6)집계함수들
+		 * 	스트림의 마지막에 사용
+		 * 	count() : 갯수 반환
+		 *  sum() : 합계 반환
+		 *  max() : 최대값 반환
+		 *  min() : 최소값 반환
+		 *  
+		 *  7)그외~
+		 *  	findFirst() : 스트림의 첫번째요소 반환
+		 *  	findAny()	: 스트림에 값이 있다면 아무값이나 반환
+		 *  	orElse(대체값) : 값이 저장되어있지 않다면 대체값 설정가능
+		 */
+	
 	}
 
 }
